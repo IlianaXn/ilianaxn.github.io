@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-"github-pages", "~> VERSION", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins
 gem "jekyll", "4.1.1"
 gem "thin"
 gem "rack", ">= 2.2.3"

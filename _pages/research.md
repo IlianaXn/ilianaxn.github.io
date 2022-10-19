@@ -88,13 +88,3 @@ trying to achieve the optimal.
 </div>
 </div>
 </div>
-
-## Projects
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
- <h4>Ask<b>me</b>anything</h4> 
-<p align="justify">Simply a Q&A web application!</p>
-<a href="{{ site.url }}{{ site.baseurl }}/presentations/askmeanything.pdf" target="_blank">Presentation</a>
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/askme.png" alt="MOAS BGP hijacking attack" width="100%" style="max-width:500px">

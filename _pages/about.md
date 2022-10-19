@@ -17,9 +17,9 @@ permalink: /about/
   <h3>{{ member.name }}</h3>
   <h4><i>{{ member.info }}</i></h4>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
-  {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
+  {% if member.resume %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.resume }}" target="_blank"><i class="fa fa-file-text" style="font-size: 260%;"></i></a> {% endif %}
   {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %} 
-  {% if member.phone %} <a href="{{ member.phone }}" target="_blank"><i class="fa fa-phone-square fa-3x"></i></a> {% endif %}
+  {% if member.phone %} <a href="tel:{{ member.phone }}" target="_blank"><i class="fa fa-phone-square fa-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
 
   <ul style="overflow: hidden">

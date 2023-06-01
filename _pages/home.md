@@ -24,6 +24,6 @@ Alberto Dainotti, <i><a href="https://www.caida.org/workshops/kismet/2002/" targ
 
 ### About me
 <p align="justify">
-I am a first-year Ph.D. Student at the Computer Science department at Georgia Institute of Technology, working with <a href="https://faculty.cc.gatech.edu/~adainotti6/" target="_blank">Prof. Alberto Dainotti</a> in the <a href="https://inetintel.notion.site/Internet-Intelligence-Research-Lab-d186184563d345bab51901129d812ed6" target="_blank">Internet Intelligence Lab</a>. <br/>
+I am a second-year Ph.D. Student at the Computer Science department at Georgia Institute of Technology, working with <a href="https://faculty.cc.gatech.edu/~adainotti6/" target="_blank">Prof. Alberto Dainotti</a> in the <a href="https://inetintel.notion.site/Internet-Intelligence-Research-Lab-d186184563d345bab51901129d812ed6" target="_blank">Internet Intelligence Lab</a>. <br/>
 I have a Diploma (equivalent to Integrated M.Eng.) in <a href="https://www.ece.ntua.gr/en" target="_blank">Electrical and Computer Engineering</a> from the National Technical University of Athens, where I conducted my thesis research under the supervision of <a href="https://www.ece.ntua.gr/en/staff/76" target="_blank">Prof. Symeon Papavassiliou</a>.
 </p>

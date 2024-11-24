@@ -26,7 +26,7 @@ Alberto Dainotti, <i><a href="https://www.caida.org/workshops/kismet/2002/" targ
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/overview.pdf" alt="Overview of MORP4" width="100%" style="max-width:500px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/overview.png" alt="Overview of MORP4" width="100%" style="max-width:500px">
 <br/>
 Overview of MORP4. P1 is an outbound packet. P2 is an incoming packet destined towards an unused address.
 </center>

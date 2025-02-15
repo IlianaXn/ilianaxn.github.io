@@ -1,0 +1,14 @@
+- name: Iliana M. Xygkou
+  photo: face_image.jpg
+  info: Ph.D. student, GaTech 
+  email: ixygkou@gatech.edu
+  github: https://github.com/IlianaXn
+  resume: cv/resume.pdf
+  linkedin: https://www.linkedin.com/in/iliana-xygkou/
+  phone: +1 (470)-532-0817
+  number_educ: 2
+  education1: (2022- ) Ph.D. student in Computer Science <br/> Georgia Institute of Technology (with advisor <a href="https://faculty.cc.gatech.edu/~adainotti6/" target="_blank">Prof. Alberto Dainotti</a>)
+  education2: (2017-2022) Diploma (Integrated Master of Engineering) in Electrical and Computer Engineering<br/> National Technical University of Athens 
+              (with Thesis supervisor <a href="https://www.ece.ntua.gr/en/staff/76" target="_blank">Prof. Symeon Papavassiliou</a>)
+  education1short: (2022) Ph.D., CS, GaTech
+  education2short: (2017-2022) Diploma (Integrated M.Eng.), ECE, NTUA

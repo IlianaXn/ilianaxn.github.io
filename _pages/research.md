@@ -73,9 +73,6 @@ iframe {
  <a href="{{ site.url }}{{ site.baseurl }}/presentations/BGPZombies-IMC2025.pdf" target="_blank">Presentation</a><br/>
 <p align="justify">BGP is the de facto protocol used to manage a network’s reachabilityon the Internet. Network operators announce and withdraw theirprefixes on BGP to enable or to prevent communication towardstheir origin network, respectively. However, the withdrawal of aprefix could fail to propagate totally in the Internet and routestowards withdrawn prefixes could remain in the routing tablesof routers. These routes are called stuck or zombie BGP routes,and their persistence can lead to performance degradation, or evenpartial or complete outage. In this paper, we first revisit existingwork on BGP zombies using RIPE RIS beacons, identify the double-counting discrepancy, and revise the methodology to address thisproblem and detect zombies more accurately. Second, we point outlimitations of the RIPE RIS beacons with respect to their periodicity,lack of diversity, and noise, and introduce and deploy our ownbeacons, which address these limitations. Using our beacons andthe revised methodology, we analyze the lifespan of BGP zombies.We show that zombie routes can persist in RIBs for days, weeks,or even months. Furthermore, we document that BGP zombies canbe announced months after their original withdrawal, affectingnew ASes. Finally, we discuss interesting cases of long-lived zombieoutbreaks that affected large ISPs with hundreds of ASes in theircustomer cones.
 </p>
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
  <h4>Misinformation containment in social network platforms</h4>
  <a href="{{ site.url }}{{ site.baseurl }}/papers/thesis_xygkou_iliana.pdf" target="_blank">Diploma Thesis (in Greek)</a> <br/>
  <a href="{{ site.url }}{{ site.baseurl }}/presentations/thesis.pdf" target="_blank">Presentation</a>

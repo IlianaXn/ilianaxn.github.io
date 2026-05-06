@@ -66,6 +66,13 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
+<h4>MORP4: A Dynamic Network Telescope</h4>
+ <h5>I. Xygkou, J.K. Sojan, D. Rauthan, F. Zhu, T. Holterbach, S. Alcock, B. Flanagan, A. Saeed, A. Dainotti</h5>
+ <a href="{{ site.url }}{{ site.baseurl }}/papers/morp4_dynamic_telescope.pdf" target="_blank">Paper</a><br/>
+ <a href="https://www.usenix.org/conference/nsdi26/presentation/xygkou">Paper (online)</a><br/>
+ <a href="{{ site.url }}{{ site.baseurl }}/presentations/nsdi-morp4-presentation.pdf" target="_blank">Presentation</a><br/>
+<p align="justify">A network telescope passively monitors traffic reaching Internet address space that is not assigned to any hosts but is advertised to the global routing system. This traffic is by definition unsolicited. For more than two decades, network telescopes have enabled research breakthroughs by allowing global visibility into a wide range of Internet phenomena. However, telescopes are afflicted by two main issues: progressive erosion, due to the increasing scarcity and commercial value of address space, and blacklisting. To overcome these issues, we propose MORP4, a programmable data-plane framework implementing a “dynamic” network telescope. MORP4 accurately and adaptively tracks unused space of an organization’s network with configurable time and space granularity and captures only traffic directed towards unused addresses at line rate. We provide an implementation in P4 and Python/C++, and deploy it on a Tofino switch. We show that it can detect unused IPv4 address space at the finest granularity (/32) while operating at line rate as well as providing an effective approach for operating a telescope in the IPv6 domain.
+</p>
  <h4>A First Look into Long-lived BGP Zombies</h4>
  <h5>I. Xygkou, A. Chariton, X. Dimitropoulos, A. Dainotti</h5>
  <a href="{{ site.url }}{{ site.baseurl }}/papers/imc-zombies.pdf" target="_blank">Paper</a><br/>
